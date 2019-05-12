@@ -1,0 +1,5 @@
+dialect: mysql
+db_url: root:pjoc@/pay_gateway?charset=utf8&parseTime=True&loc=Local
+max_idle_connections: 100
+max_open_connections: 100
+connection_max_lifetime_seconds: 14400
